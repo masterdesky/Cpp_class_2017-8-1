@@ -1,1 +1,1 @@
-# ELTE_Cpp_2017
+# C++ programming 2017-2018/1 @ ELTE
